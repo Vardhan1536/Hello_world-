@@ -1,2 +1,4 @@
-# Hello_world-
-printing hello world program in c.
+#include<stdio.h>
+void main(){
+printf("hello world");
+}
